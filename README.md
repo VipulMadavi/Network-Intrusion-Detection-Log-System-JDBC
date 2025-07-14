@@ -71,3 +71,8 @@ private static final String PASSWORD = "password";   // your MySQL password
 4. Compile all files
 5. Run `MainGUI.java`
 ```
+
+## Team Members
+1. Vipul Madavi
+2. Manoj Deshmukh
+3. Gitesh Pradhan
